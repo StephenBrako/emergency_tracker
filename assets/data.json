@@ -1,0 +1,52 @@
+[
+  {
+
+    "ghcardsurname":"",
+    "ghcardfirstname":"",
+    "ghcardpreviousname": "",
+    "ghcardnationality": "",
+    "ghcardsex": "",
+    "ghcarddateofbirth": "",
+    "ghcardplaceofissuance": "",
+    "ghcardid": "",
+    "ghcardheight": "",
+    "ghcarddateofissuance": "",
+    "ghcarddateofexpiry": "",
+
+    "nhisname": "",
+    "nhissex": "",
+    "nhisdateofbirth": "",
+    "nhisid": "",
+    "nhisdateofissuance": "",
+    "nhisdateofexpiry": "",
+
+    "licencename": "",
+    "licencenationalid": "",
+    "licenceprocessingcenter": "",
+    "licencenationality": "",
+    "licenceclass": "",
+    "licencedateofbirth": "",
+    "dateoffirstlicence": "",
+    "licencepin": "",
+    "licencedateofissue": "",
+    "licencedateofexpiry": "",
+    "licencecertificatedate": "",
+    "certificateofcompetence": "",
+
+    "snnitname": "",
+    "snnitgender": "",
+    "snnitdateofbirth": "",
+    "snnitid": "",
+
+    "voteridsurname": "",
+    "voteridothername": "",
+    "voteridsex": "",
+    "voteriddateofbirth": "",
+    "voteridpollingstationcode": "",
+    "voteriddateofregistration": "",
+    "voteridnumber": "",
+
+    "dob": ""
+  }
+]
+
